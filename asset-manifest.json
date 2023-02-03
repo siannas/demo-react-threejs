@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/demo-react-threejs/static/css/main.a919c09b.css",
-    "main.js": "/demo-react-threejs/static/js/main.9382b719.js",
+    "main.css": "/demo-react-threejs/static/css/main.fd305002.css",
+    "main.js": "/demo-react-threejs/static/js/main.aa304162.js",
     "static/js/787.1f013cd5.chunk.js": "/demo-react-threejs/static/js/787.1f013cd5.chunk.js",
     "index.html": "/demo-react-threejs/index.html",
-    "main.a919c09b.css.map": "/demo-react-threejs/static/css/main.a919c09b.css.map",
-    "main.9382b719.js.map": "/demo-react-threejs/static/js/main.9382b719.js.map",
+    "main.fd305002.css.map": "/demo-react-threejs/static/css/main.fd305002.css.map",
+    "main.aa304162.js.map": "/demo-react-threejs/static/js/main.aa304162.js.map",
     "787.1f013cd5.chunk.js.map": "/demo-react-threejs/static/js/787.1f013cd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a919c09b.css",
-    "static/js/main.9382b719.js"
+    "static/css/main.fd305002.css",
+    "static/js/main.aa304162.js"
   ]
 }
